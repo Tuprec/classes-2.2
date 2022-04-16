@@ -6,7 +6,8 @@ namespace classes_2._2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            resultaat leering = new resultaat();
+
         }
     }
 }
